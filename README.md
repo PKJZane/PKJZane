@@ -7,7 +7,7 @@ Every month for the next six months, I'll pick one **Machine Learning Algorithms
 🌱`SEPTEMBER` is _Linear Regression Month_ hurraay !!!. and so I'm building **linear classifiers** all through the month.
 Follow me on this journey and you're more than welcome to provide inputs to my projects. 
 
-- Let's connect on 🔭 [linkedin](https://www.linkedin.com/in/michaelappiagyei/)
+- 🔭 Let's connect on  [linkedin](https://www.linkedin.com/in/michaelappiagyei/)
 - 📫 Reach me on  _mappij@yahoo.com_
 
 - ⚡ Fun fact: I run 110m hurdles in secondary school. People were always surprised to see me lineup for the race because of my height. 
