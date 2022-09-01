@@ -6,10 +6,11 @@ I am passionate about data particularly on how to generate insights and discover
 **PKJZane/PKJZane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Every month, I pick one Machine Learning Algorithms and solve problems with it. 
+`September` is _Linear Regression Month_ and so I'm building *linear classifiers* all through the month
 
 
-
-- 🔭 I’m currently working on ...
+- 🔭
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
