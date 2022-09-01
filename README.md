@@ -2,13 +2,13 @@
 
 ##### I am a core banking technical analyst now turned a data scientist. 
 I am passionate about data particularly on how to generate insights and discover hidden pattern in data.
-Every month for the next six months, I'll pick one ** Machine Learning Algorithms ** and solve problems with it. 
+Every month for the next six months, I'll pick one **Machine Learning Algorithms** and solve problems with it. 
 
-🌱`SEPTEMBER` is _Linear Regression Month_ hurraay !!!. and so I'm building *linear classifiers* all through the month.
+🌱`SEPTEMBER` is _Linear Regression Month_ hurraay !!!. and so I'm building **linear classifiers** all through the month.
 Follow me on this journey and you're more than welcome to provide inputs to my projects. 
 
 - Let's connect on 🔭 [linkedin](https://www.linkedin.com/in/michaelappiagyei/)
-- 📫 How to reach me: [email](mappij@yahoo.com)
+- 📫 How to reach me: _mappij@yahoo.com_
 
 - ⚡ Fun fact: I run 110m hurdles in secondary school. People were always surprised to see me lineup for the  race because of my height. 
 
