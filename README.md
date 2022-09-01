@@ -8,9 +8,9 @@ Every month for the next six months, I'll pick one **Machine Learning Algorithms
 Follow me on this journey and you're more than welcome to provide inputs to my projects. 
 
 - Let's connect on 🔭 [linkedin](https://www.linkedin.com/in/michaelappiagyei/)
-- 📫 How to reach me: _mappij@yahoo.com_
+- 📫 Reach me on  _mappij@yahoo.com_
 
-- ⚡ Fun fact: I run 110m hurdles in secondary school. People were always surprised to see me lineup for the  race because of my height. 
+- ⚡ Fun fact: I run 110m hurdles in secondary school. People were always surprised to see me lineup for the race because of my height. 
 
 <!--
 **PKJZane/PKJZane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
