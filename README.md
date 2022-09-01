@@ -10,7 +10,7 @@ Follow me on this journey and you're more than welcome to provide inputs to my p
 - 🔭 Let's connect on  [linkedin](https://www.linkedin.com/in/michaelappiagyei/)
 - 📫 Reach me on  _mappij@yahoo.com_
 
-- ⚡ Fun fact: I run 110m hurdles in secondary school. People were always surprised to see me lineup for the race because of my height. 
+**⚡ Fun fact: I run 110m hurdles in secondary school. People were always surprised to see me lineup for the race because of my height.**
 
 <!--
 **PKJZane/PKJZane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
